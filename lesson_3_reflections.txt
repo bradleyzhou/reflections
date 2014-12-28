@@ -43,4 +43,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would directly make changes in master when working with small and quick projects, 
+    or in 'alpha' stage of development. Directly change master will be quicker in building
+    up something. I would use branches to make changes when the work is published and when
+    I weigh consistence over working easiness. Using branches gives me the confidence of 
+    always having something that works as master, and helps to only improve the work by
+    minimize the probability of breaking something that already works.
